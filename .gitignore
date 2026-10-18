@@ -1,10 +1,8 @@
 node_modules/
 dist/
 build
-.env
 .DS_Store
 npm-debug.log
-.vscode
 
 google_secret.json
 llm.txt
@@ -51,3 +49,4 @@ pnpm-debug.log*
 tmp/
 temp/
 .tmp/
+config.bat
